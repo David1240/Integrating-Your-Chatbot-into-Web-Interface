@@ -4,7 +4,6 @@ Prerequisite: This section assumes you know how to build the simple terminal cha
 <br>
 There are two things we must build to create our ChatGPT-like website:<br>
 <br>
-
 - A back-end server that hosts our chatbot<br>
 - A front-end webpage that communicates with our back-end server
 <br>
